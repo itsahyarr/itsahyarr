@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itsahyarr
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Python for Artificial Intelligence
+- 🌱 I’m currently learning Python for Artificial Intelligence, Web Developer, Automation, and Security
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
